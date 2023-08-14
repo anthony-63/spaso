@@ -1,0 +1,9 @@
+{
+    "C_Cpp.default.compilerPath": "D:\\w64devkit\\w64devkit\\bin\\x86_64-w64-mingw32-gcc.exe",
+    "files.associations": {
+        "spaso.h": "c",
+        "logger.h": "c",
+        "glfw3.h": "c",
+        "gl3w.h": "c"
+    }
+}
