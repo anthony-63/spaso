@@ -1,0 +1,7 @@
+
+[SPASO](INFO) Initialized GLFW
+[SPASO](INFO) Set GLFW Error Callback
+[SPASO](INFO) Created OpenGL Context
+[SPASO](INFO) OpenGL Intialized:
+	GL: 4.0.0 NVIDIA 531.30
+	GLSL:  4.00 NVIDIA via Cg compiler
