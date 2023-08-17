@@ -2,6 +2,17 @@
 [SPASO](INFO) Initialized GLFW
 [SPASO](INFO) Set GLFW Error Callback
 [SPASO](INFO) Created OpenGL Context
-[SPASO](INFO) OpenGL Intialized:
+[SPASO](INFO) OpenGL Initialized:
 	GL: 4.0.0 NVIDIA 531.30
 	GLSL:  4.00 NVIDIA via Cg compiler
+[SPASO](INFO) Loading shader source: data/shaders/main.vert
+[SPASO](INFO) Compiling shader: data/shaders/main.vert
+[SPASO](INFO) Compiled shader: data/shaders/main.vert
+[SPASO](INFO) Freed shader tmp
+[SPASO](INFO) Loading shader source: data/shaders/main.frag
+[SPASO](INFO) Compiling shader: data/shaders/main.frag
+[SPASO](INFO) Compiled shader: data/shaders/main.frag
+[SPASO](INFO) Freed shader tmp
+[SPASO](INFO) Linking program id: 3
+[SPASO](INFO) Linked program id: 3, status: 1
+[SPASO](INFO) Created Camera {sens: 0.100000, pos: {x: 0.000000, y: 0.000000, z: -3.500000}}

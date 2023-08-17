@@ -4,6 +4,9 @@
         "spaso.h": "c",
         "logger.h": "c",
         "glfw3.h": "c",
-        "gl3w.h": "c"
+        "gl3w.h": "c",
+        "obj.h": "c",
+        "mat4.h": "c",
+        "shader_program.h": "c"
     }
 }

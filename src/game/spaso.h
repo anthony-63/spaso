@@ -7,6 +7,6 @@ typedef struct {
     ss_window_t* window;
 } spaso_t;
 
-spaso_t* ss_new(int width, int height, const char* title);
+spaso_t* ss_new(int width, int height, char* title);
 void ss_run(spaso_t* ss);
 void ss_free(spaso_t* ss);
