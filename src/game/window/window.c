@@ -40,6 +40,9 @@ void mouse_move(GLFWwindow* window, double x, double y) {
     cam->yaw += xoff;
     cam->pitch += yoff;
 
+    if(cam->pitch > 89.0f) cam->pitch = 89.0f;
+    if(cam->pitch < -89.0f) cam->pitch = -89.0f;
+
     vec3 direction;
     direction[0] = cos(glm_rad(cam->yaw)) * cos(glm_rad(cam->pitch));
     direction[1] = sin(glm_rad(cam->pitch));
